@@ -2,6 +2,7 @@
 [![Version](https://img.shields.io/cocoapods/v/MNkAlertView.svg?style=flat)](https://cocoapods.org/pods/MNkAlertView)
 [![License](https://img.shields.io/cocoapods/l/MNkAlertView.svg?style=flat)](https://cocoapods.org/pods/MNkAlertView)
 [![Platform](https://img.shields.io/cocoapods/p/MNkAlertView.svg?style=flat)](https://cocoapods.org/pods/MNkAlertView)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-orange)
 
 If you want to create a custom alert view precisely of the design handoff, you can get help from the MNKAlertView framework.
 <br>
